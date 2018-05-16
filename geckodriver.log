@@ -1,0 +1,941 @@
+1524460140864	geckodriver	INFO	geckodriver 0.20.1
+1524460140872	geckodriver	INFO	Listening on 127.0.0.1:59753
+1524460141880	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.gj630S07x2Tn"
+1524460142660	Marionette	INFO	Enabled via --marionette
+2018-04-23 00:09:03.938 plugin-container[14985:6014476] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524460144620	Marionette	INFO	Listening on port 59769
+1524460144696	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-23 00:09:05.627 plugin-container[14986:6014568] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524460196368	geckodriver	INFO	geckodriver 0.20.1
+1524460196374	geckodriver	INFO	Listening on 127.0.0.1:60234
+1524460197390	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.jbeBUePUQpMj"
+1524460197910	Marionette	INFO	Enabled via --marionette
+2018-04-23 00:09:59.523 plugin-container[14996:6016973] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa133, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524460199832	Marionette	INFO	Listening on port 60251
+1524460199894	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-23 00:10:00.800 plugin-container[14997:6017062] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524460373901	geckodriver	INFO	geckodriver 0.20.1
+1524460373907	geckodriver	INFO	Listening on 127.0.0.1:61547
+1524460374919	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.50pTZ4JJ5K5C"
+1524460375690	Marionette	INFO	Enabled via --marionette
+2018-04-23 00:12:56.833 plugin-container[15011:6020751] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524460377450	Marionette	INFO	Listening on port 61564
+1524460377488	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-23 00:12:57.969 plugin-container[15012:6020832] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524460450407	geckodriver	INFO	geckodriver 0.20.1
+1524460450413	geckodriver	INFO	Listening on 127.0.0.1:62195
+1524460451425	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.eOkI2Ku8EXuy"
+1524460451918	Marionette	INFO	Enabled via --marionette
+2018-04-23 00:14:13.432 plugin-container[15022:6021799] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524460453782	Marionette	INFO	Listening on port 62211
+1524460453858	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-23 00:14:14.743 plugin-container[15023:6021891] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524460488545	geckodriver	INFO	geckodriver 0.20.1
+1524460488551	geckodriver	INFO	Listening on 127.0.0.1:62561
+1524460489564	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.Xx5C26sKLfdS"
+1524460490392	Marionette	INFO	Enabled via --marionette
+2018-04-23 00:14:51.657 plugin-container[15031:6024159] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524460491964	Marionette	INFO	Listening on port 62578
+1524460492328	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-23 00:14:52.747 plugin-container[15032:6024251] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-04-23 00:15:43.394 plugin-container[15039:6026806] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa033, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524460608283	geckodriver	INFO	geckodriver 0.20.1
+1524460608291	geckodriver	INFO	Listening on 127.0.0.1:63190
+1524460609302	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.y3jGc7Kg4FRp"
+1524460609816	Marionette	INFO	Enabled via --marionette
+2018-04-23 00:16:50.988 plugin-container[15045:6027651] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524460611620	Marionette	INFO	Listening on port 63203
+1524460611712	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-23 00:16:52.824 plugin-container[15046:6027760] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524460692725	geckodriver	INFO	geckodriver 0.20.1
+1524460692730	geckodriver	INFO	Listening on 127.0.0.1:63486
+1524460693741	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.pyFIdCd75P0u"
+1524460694428	Marionette	INFO	Enabled via --marionette
+2018-04-23 00:18:15.604 plugin-container[15055:6030007] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524460695922	Marionette	INFO	Listening on port 63499
+1524460696004	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-23 00:18:16.706 plugin-container[15056:6030087] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-04-23 00:20:38.913 plugin-container[15065:6032702] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+1524461463303	geckodriver	INFO	geckodriver 0.20.1
+1524461463311	geckodriver	INFO	Listening on 127.0.0.1:65105
+1524461464317	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.oq9urE1gsxkS"
+1524461464874	Marionette	INFO	Enabled via --marionette
+2018-04-23 00:31:06.583 plugin-container[15085:6042461] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524461466992	Marionette	INFO	Listening on port 65118
+1524461467408	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-23 00:31:07.518 plugin-container[15086:6042547] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524461509501	geckodriver	INFO	geckodriver 0.20.1
+1524461509508	geckodriver	INFO	Listening on 127.0.0.1:65356
+1524461510517	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.9SSsTGo22U8l"
+1524461511114	Marionette	INFO	Enabled via --marionette
+2018-04-23 00:31:52.743 plugin-container[15095:6044691] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524461513490	Marionette	INFO	Listening on port 65368
+1524461513548	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-23 00:31:53.756 plugin-container[15096:6044788] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-04-23 00:33:14.322 plugin-container[15100:6047350] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-23 00:34:19.923 plugin-container[15105:6050052] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: http://www.informit.com/display/common/javascript/jquery.js?v=20180208, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-836091520, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-836091520, line 69: unreachable code after return statement
+1524462028835	geckodriver	INFO	geckodriver 0.20.1
+1524462028841	geckodriver	INFO	Listening on 127.0.0.1:50403
+1524462029850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.Sr3XrG2N5sZE"
+1524462030626	Marionette	INFO	Enabled via --marionette
+2018-04-23 00:40:31.762 plugin-container[15119:6055432] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa033, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524462032092	Marionette	INFO	Listening on port 50416
+1524462032364	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-23 00:40:32.940 plugin-container[15120:6055511] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-04-23 00:41:16.464 plugin-container[15123:6056957] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-23 00:41:17.693 plugin-container[15124:6057013] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524871866552	geckodriver	INFO	geckodriver 0.20.1
+1524871866561	geckodriver	INFO	Listening on 127.0.0.1:57837
+1524871867567	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.J17FbojwOU1d"
+1524871868180	Marionette	INFO	Enabled via --marionette
+2018-04-27 18:31:09.020 plugin-container[3846:254462] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524871869498	Marionette	INFO	Listening on port 57848
+1524871869550	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 18:31:09.968 plugin-container[3847:254542] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524871954602	geckodriver	INFO	geckodriver 0.20.1
+1524871954607	geckodriver	INFO	Listening on 127.0.0.1:57912
+1524871955620	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.FgonpFVaNdRR"
+1524871956054	Marionette	INFO	Enabled via --marionette
+2018-04-27 18:32:36.912 plugin-container[3878:256140] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524871957244	Marionette	INFO	Listening on port 57923
+1524871957288	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 18:32:37.750 plugin-container[3879:256220] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524872221654	geckodriver	INFO	geckodriver 0.20.1
+1524872221660	geckodriver	INFO	Listening on 127.0.0.1:58133
+1524872222667	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.54tnbapr4562"
+1524872223048	Marionette	INFO	Enabled via --marionette
+2018-04-27 18:37:03.768 plugin-container[3897:258094] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524872224110	Marionette	INFO	Listening on port 58144
+1524872224122	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 18:37:04.677 plugin-container[3898:258177] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524872315024	geckodriver	INFO	geckodriver 0.20.1
+1524872315029	geckodriver	INFO	Listening on 127.0.0.1:58277
+1524872316038	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.lS95XEveXuAT"
+1524872316416	Marionette	INFO	Enabled via --marionette
+2018-04-27 18:38:37.124 plugin-container[3908:259168] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa233, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524872317450	Marionette	INFO	Listening on port 58288
+1524872317486	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 18:38:38.023 plugin-container[3909:259245] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524872345446	geckodriver	INFO	geckodriver 0.20.1
+1524872345452	geckodriver	INFO	Listening on 127.0.0.1:58429
+1524872346460	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.CyG3glQtUub1"
+1524872346860	Marionette	INFO	Enabled via --marionette
+2018-04-27 18:39:07.638 plugin-container[3917:259582] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524872348006	Marionette	INFO	Listening on port 58440
+1524872348016	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 18:39:08.541 plugin-container[3919:259665] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524872570989	geckodriver	INFO	geckodriver 0.20.1
+1524872570994	geckodriver	INFO	Listening on 127.0.0.1:58622
+1524872572002	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.VbZnNZKeXOQX"
+1524872572390	Marionette	INFO	Enabled via --marionette
+2018-04-27 18:42:53.129 plugin-container[3938:261812] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa233, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524872573482	Marionette	INFO	Listening on port 58633
+1524872573552	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 18:42:54.026 plugin-container[3939:261910] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-04-27 18:44:18.278 plugin-container[3941:262439] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524873141178	geckodriver	INFO	geckodriver 0.20.1
+1524873141186	geckodriver	INFO	Listening on 127.0.0.1:58882
+1524873142195	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.KevJjRr6Mrvq"
+1524873142664	Marionette	INFO	Enabled via --marionette
+2018-04-27 18:52:23.620 plugin-container[3956:265142] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524873144082	Marionette	INFO	Listening on port 58893
+1524873144172	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 18:52:24.630 plugin-container[3957:265254] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524873190243	geckodriver	INFO	geckodriver 0.20.1
+1524873190252	geckodriver	INFO	Listening on 127.0.0.1:59050
+1524873191265	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.ca32rIuC6NwP"
+1524873191836	Marionette	INFO	Enabled via --marionette
+2018-04-27 18:53:12.823 plugin-container[3964:266096] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524873193262	Marionette	INFO	Listening on port 59061
+1524873193374	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 18:53:13.772 plugin-container[3965:266172] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+2018-04-27 19:07:13.230 plugin-container[3980:273655] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://2captcha.com/template/fr/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery version 1.9.1 or higher
+JavaScript warning: https://2captcha.com/template/new/d/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://2captcha.com/template/new/d/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524875437312	geckodriver	INFO	geckodriver 0.20.1
+1524875437318	geckodriver	INFO	Listening on 127.0.0.1:59588
+1524875438338	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.qWKWU2yh9tID"
+1524875438986	Marionette	INFO	Enabled via --marionette
+2018-04-27 19:30:40.253 plugin-container[4026:281809] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524875440886	Marionette	INFO	Listening on port 59599
+1524875440994	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 19:30:41.842 plugin-container[4027:281892] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-04-27 19:32:25.397 plugin-container[4030:283250] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524875716390	geckodriver	INFO	geckodriver 0.20.1
+1524875716396	geckodriver	INFO	Listening on 127.0.0.1:59887
+1524875717405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.EbCFeavoMA40"
+1524875717830	Marionette	INFO	Enabled via --marionette
+2018-04-27 19:35:18.771 plugin-container[4047:284456] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524875719134	Marionette	INFO	Listening on port 59898
+1524875719182	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 19:35:19.651 plugin-container[4048:284533] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524875785072	geckodriver	INFO	geckodriver 0.20.1
+1524875785080	geckodriver	INFO	Listening on 127.0.0.1:60060
+1524875786088	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.E3DUOdRJ3wJs"
+1524875786524	Marionette	INFO	Enabled via --marionette
+2018-04-27 19:36:27.433 plugin-container[4516:287307] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524875787798	Marionette	INFO	Listening on port 60071
+1524875787860	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 19:36:28.316 plugin-container[4518:287410] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524875869427	geckodriver	INFO	geckodriver 0.20.1
+1524875869433	geckodriver	INFO	Listening on 127.0.0.1:60240
+1524875870445	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.JZW48FrIXONs"
+1524875870834	Marionette	INFO	Enabled via --marionette
+2018-04-27 19:37:51.572 plugin-container[4534:288262] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524875871940	Marionette	INFO	Listening on port 60251
+1524875872008	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 19:37:52.477 plugin-container[4535:288339] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524875941362	geckodriver	INFO	geckodriver 0.20.1
+1524875941369	geckodriver	INFO	Listening on 127.0.0.1:60422
+1524875942379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.sKYg8lVNW3kF"
+1524875942760	Marionette	INFO	Enabled via --marionette
+2018-04-27 19:39:03.552 plugin-container[4567:289639] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa12f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524875943904	Marionette	INFO	Listening on port 60433
+1524875943946	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 19:39:04.403 plugin-container[4568:289731] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524876032782	geckodriver	INFO	geckodriver 0.20.1
+1524876032788	geckodriver	INFO	Listening on 127.0.0.1:60608
+1524876033802	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.2MZefQXuBdLF"
+1524876034182	Marionette	INFO	Enabled via --marionette
+2018-04-27 19:40:34.918 plugin-container[4582:290791] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524876035298	Marionette	INFO	Listening on port 60619
+1524876035370	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 19:40:35.805 plugin-container[4583:290884] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-04-27 19:41:10.186 plugin-container[4584:291114] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524876294285	geckodriver	INFO	geckodriver 0.20.1
+1524876294293	geckodriver	INFO	Listening on 127.0.0.1:60957
+1524876295304	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.jIOpPPg1Nm7y"
+1524876295776	Marionette	INFO	Enabled via --marionette
+2018-04-27 19:44:56.682 plugin-container[4595:292408] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524876297128	Marionette	INFO	Listening on port 60968
+1524876297196	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 19:44:57.594 plugin-container[4596:292501] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524876336956	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1524876411875	geckodriver	INFO	geckodriver 0.20.1
+1524876411880	geckodriver	INFO	Listening on 127.0.0.1:61100
+1524876412891	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.ehbJUGTJOisb"
+1524876413286	Marionette	INFO	Enabled via --marionette
+2018-04-27 19:46:54.049 plugin-container[4609:293905] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524876414360	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1524876414462	Marionette	INFO	Listening on port 61117
+1524876414566	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 19:46:55.048 plugin-container[4613:294007] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+1524876441797	geckodriver	INFO	geckodriver 0.20.1
+1524876441804	geckodriver	INFO	Listening on 127.0.0.1:61320
+1524876442814	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.NzXNVZXf8ncW"
+1524876443210	Marionette	INFO	Enabled via --marionette
+2018-04-27 19:47:23.963 plugin-container[4630:294640] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524876444362	Marionette	INFO	Listening on port 61331
+1524876444374	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 19:47:24.861 plugin-container[4631:294720] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript error: https://cdn.shopify.com/s/files/1/0094/2252/t/106/assets/jquery.mmenu.all.min.js?2481574381392928355, line 13: ReferenceError: jQuery is not defined
+JavaScript error: https://cdn.shopify.com/s/files/1/0094/2252/t/106/assets/jquery.mmenu.fixedelements.min.js?2481574381392928355, line 7: ReferenceError: jQuery is not defined
+JavaScript error: https://kith.com/collections/apparel/hoody, line 453: ReferenceError: $ is not defined
+JavaScript error: https://kith.com/collections/apparel/hoody, line 715: ReferenceError: jQuery is not defined
+JavaScript error: https://kith.com/collections/apparel/hoody, line 25019: ReferenceError: $ is not defined
+JavaScript error: https://kith.com/collections/apparel/hoody, line 25123: ReferenceError: $ is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js, line 44: ReferenceError: jQuery is not defined
+JavaScript error: https://cdn.shopify.com/s/files/1/0094/2252/t/106/assets/masterslider.min.js?2481574381392928355, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://cdn.shopify.com/s/files/1/0094/2252/t/106/assets/jquery.magnific-popup.min.js?2481574381392928355, line 4: TypeError: a is not a function
+JavaScript error: https://kith.com/collections/apparel/hoody, line 13196: ReferenceError: $ is not defined
+JavaScript error: https://cdn.shopify.com/s/files/1/0094/2252/t/106/assets/vendor.js?2481574381392928355, line 24: ReferenceError: jQuery is not defined
+JavaScript error: https://cdn.shopify.com/s/files/1/0094/2252/t/106/assets/site.js?2481574381392928355, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://cdn.shopify.com/s/files/1/0094/2252/t/106/assets/slick-super-slider.js?2481574381392928355, line 221: ReferenceError: jQuery is not defined
+JavaScript error: https://cdn.shopify.com/s/files/1/0094/2252/t/106/assets/slick-theme.js?2481574381392928355, line 234: ReferenceError: jQuery is not defined
+JavaScript error: https://kith.com/collections/apparel/hoody, line 13196: ReferenceError: $ is not defined
+JavaScript error: https://cdn.shopify.com/s/files/1/0094/2252/t/106/assets/ajax-cart.js?2481574381392928355, line 931: ReferenceError: jQuery is not defined
+JavaScript error: https://cdn.shopify.com/s/files/1/0094/2252/t/106/assets/theme.min.js?2481574381392928355, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://kith.com/collections/apparel/hoody, line 28665: TypeError: theme.headroomInit is not a function
+JavaScript error: https://cdn.shopify.com/s/files/1/0094/2252/t/106/assets/mightyslider.min.js?2481574381392928355, line 23: ReferenceError: jQuery is not defined
+JavaScript error: https://cdn.shopify.com/s/files/1/0094/2252/t/106/assets/mightyslider.animate.plugin.min.js?2481574381392928355, line 12: ReferenceError: jQuery is not defined
+JavaScript error: https://kith.com/collections/apparel/hoody, line 28680: ReferenceError: whenDefined is not defined
+JavaScript error: https://kith.com/collections/apparel/hoody, line 28709: ReferenceError: $ is not defined
+JavaScript error: https://kith.com/collections/apparel/hoody, line 13196: ReferenceError: $ is not defined
+JavaScript error: https://kith.com/collections/apparel/hoody, line 13196: ReferenceError: $ is not defined
+JavaScript error: https://kith.com/collections/apparel/hoody, line 13196: ReferenceError: $ is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://kith.com/collections/apparel/hoody, line 13196: TypeError: $ is not a function
+JavaScript error: https://kith.com/collections/apparel/hoody, line 13196: TypeError: $ is not a function
+JavaScript error: https://kith.com/collections/apparel/hoody, line 13196: TypeError: $ is not a function
+JavaScript error: https://kith.com/collections/apparel/hoody, line 13196: TypeError: $ is not a function
+JavaScript error: https://kith.com/collections/apparel/hoody, line 13196: TypeError: $ is not a function
+JavaScript error: https://kith.com/collections/apparel/hoody, line 13196: TypeError: $ is not a function
+JavaScript error: https://kith.com/collections/apparel/hoody, line 13196: TypeError: $ is not a function
+JavaScript error: https://kith.com/collections/apparel/hoody, line 13196: TypeError: $ is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+1524876508866	geckodriver	INFO	geckodriver 0.20.1
+1524876508871	geckodriver	INFO	Listening on 127.0.0.1:61553
+1524876509884	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.5SHCqU2Pjbgd"
+1524876510272	Marionette	INFO	Enabled via --marionette
+2018-04-27 19:48:31.035 plugin-container[4741:297443] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524876511416	Marionette	INFO	Listening on port 61564
+1524876511440	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 19:48:31.948 plugin-container[4742:297520] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524876542908	geckodriver	INFO	geckodriver 0.20.1
+1524876542915	geckodriver	INFO	Listening on 127.0.0.1:61711
+1524876543922	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.86k1w6ZAUOt2"
+1524876544374	Marionette	INFO	Enabled via --marionette
+2018-04-27 19:49:05.287 plugin-container[4813:298581] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa133, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524876545626	Marionette	INFO	Listening on port 61722
+1524876545684	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 19:49:06.133 plugin-container[4814:298659] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e2b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-04-27 19:50:48.932 plugin-container[4822:300380] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-27 19:52:47.280 plugin-container[4905:302299] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 69: unreachable code after return statement
+1524876920036	geckodriver	INFO	geckodriver 0.20.1
+1524876920044	geckodriver	INFO	Listening on 127.0.0.1:62021
+1524876921044	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.b13YBMXhWR5I"
+1524876921476	Marionette	INFO	Enabled via --marionette
+2018-04-27 19:55:22.244 plugin-container[4913:304473] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524876922634	Marionette	INFO	Listening on port 62032
+1524876922706	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 19:55:23.149 plugin-container[4914:304572] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524876969723	geckodriver	INFO	geckodriver 0.20.1
+1524876969728	geckodriver	INFO	Listening on 127.0.0.1:62223
+1524876970735	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.LP8NJYcmMaxI"
+1524876971130	Marionette	INFO	Enabled via --marionette
+2018-04-27 19:56:11.860 plugin-container[4920:305285] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524876972246	Marionette	INFO	Listening on port 62234
+1524876972292	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 19:56:12.753 plugin-container[4921:305362] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-04-27 19:57:34.786 plugin-container[4924:305780] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-27 19:58:45.761 plugin-container[4926:306279] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa22b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://2captcha.com/template/new/d/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://2captcha.com/template/new/d/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://2captcha.com/template/new/d/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://2captcha.com/template/new/d/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Parent 4919, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Parent 4919, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 4919, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Parent 4919, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Parent 4919, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1524878343483	geckodriver	INFO	geckodriver 0.20.1
+1524878343491	geckodriver	INFO	Listening on 127.0.0.1:63076
+1524878344492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.68BCRoxRmIoG"
+1524878344896	Marionette	INFO	Enabled via --marionette
+2018-04-27 20:19:05.708 plugin-container[4971:313270] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524878346082	Marionette	INFO	Listening on port 63089
+1524878346140	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 20:19:06.599 plugin-container[4972:313347] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1524878609197	geckodriver	INFO	geckodriver 0.20.1
+1524878609202	geckodriver	INFO	Listening on 127.0.0.1:63370
+1524878610210	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.HFXOZsNunuzt"
+1524878610634	Marionette	INFO	Enabled via --marionette
+2018-04-27 20:23:31.493 plugin-container[4985:315237] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa233, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524878611882	Marionette	INFO	Listening on port 63381
+1524878612000	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 20:23:32.389 plugin-container[4986:315370] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1524878823013	geckodriver	INFO	geckodriver 0.20.1
+1524878823018	geckodriver	INFO	Listening on 127.0.0.1:63705
+1524878824028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.dUfs0Kx7uTAR"
+1524878824456	Marionette	INFO	Enabled via --marionette
+2018-04-27 20:27:05.423 plugin-container[4995:317041] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524878825794	Marionette	INFO	Listening on port 63716
+1524878825816	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 20:27:06.349 plugin-container[4996:317125] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://www.adidas.com/static/on/demandware.static/Sites-adidas-US-Site/-/en_US/v1524815697465/js/vendor/require.js, line 7: Error: Script error for: vendor/jquery.webui-popover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.adidas.com/static/on/demandware.static/Sites-adidas-US-Site/-/en_US/v1524815697465/js/vendor/require.js, line 7: Error: Script error for: vendor/mailcheck
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.adidas.com/static/on/demandware.static/Sites-adidas-US-Site/-/en_US/v1524815697465/js/vendor/require.js, line 7: Error: Script error for: component/checkout/CartExpiryTimer
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1524878875324	geckodriver	INFO	geckodriver 0.20.1
+1524878875328	geckodriver	INFO	Listening on 127.0.0.1:63952
+1524878876344	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.ESpuOBr58BHX"
+1524878876800	Marionette	INFO	Enabled via --marionette
+2018-04-27 20:27:57.690 plugin-container[5002:318487] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524878878080	Marionette	INFO	Listening on port 63963
+1524878878136	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 20:27:58.741 plugin-container[5003:318566] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+2018-04-27 20:29:26.334 plugin-container[5005:320949] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524879096591	geckodriver	INFO	geckodriver 0.20.1
+1524879096596	geckodriver	INFO	Listening on 127.0.0.1:64340
+1524879097607	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.OiqlfD2EK64K"
+1524879098174	Marionette	INFO	Enabled via --marionette
+2018-04-27 20:31:39.132 plugin-container[5021:323482] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa133, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524879099580	Marionette	INFO	Listening on port 64351
+1524879099636	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 20:31:40.335 plugin-container[5022:323576] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524879187420	geckodriver	INFO	geckodriver 0.20.1
+1524879187424	geckodriver	INFO	Listening on 127.0.0.1:64629
+1524879188435	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.6TfSCLGbqdfw"
+1524879188894	Marionette	INFO	Enabled via --marionette
+2018-04-27 20:33:09.719 plugin-container[5032:326232] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524879190064	Marionette	INFO	Listening on port 64640
+1524879190098	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 20:33:10.568 plugin-container[5033:326328] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://www.adidas.com/static/on/demandware.static/Sites-adidas-US-Site/-/en_US/v1524815697465/internal/jscript/dwac-16.9.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.adidas.com/static/on/demandware.static/Sites-adidas-US-Site/-/en_US/v1524815697465/js/vendor/require.js, line 7: Error: Script error for: component/form/SuggestionForm
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode614
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+1524879845679	geckodriver	INFO	geckodriver 0.20.1
+1524879845684	geckodriver	INFO	Listening on 127.0.0.1:64959
+1524879846689	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.bFxOxQscZsRF"
+1524879847104	Marionette	INFO	Enabled via --marionette
+2018-04-27 20:44:07.876 plugin-container[5052:330808] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524879848270	Marionette	INFO	Listening on port 64970
+1524879848364	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-27 20:44:08.827 plugin-container[5053:330891] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://www.adidas.com/static/on/demandware.static/Sites-adidas-US-Site/-/en_US/v1524815697465/js/vendor/require.js, line 7: Error: Script error for: component/form/SuggestionForm
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+2018-04-30 08:03:27.015 plugin-container[5198:337343] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa02f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://2captcha.com/template/new/d/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://2captcha.com/template/new/d/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://2captcha.com/template/new/d/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://2captcha.com/template/new/d/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-04-30 08:04:59.256 plugin-container[5282:339844] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.programmableweb.com/sites/default/files/advagg_js/js__kX2TwVWrYCEjL5deKz2mJFZpmLkMjbKA9cuR8MAd-tg__54qDnN3anz0Geg-fsXof7d0RKZAR3uFuKY4YSpMQoIU__bWm4pjIH8bgizGmZ-fRiqexNwAEvDJmxfHsdo7wNYjE.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1525093990644	geckodriver	INFO	geckodriver 0.20.1
+1525093990653	geckodriver	INFO	Listening on 127.0.0.1:49455
+1525093991655	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.kwMPnSIcjOZh"
+1525093992110	Marionette	INFO	Enabled via --marionette
+2018-04-30 08:13:12.922 plugin-container[5353:345197] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525093993326	Marionette	INFO	Listening on port 49466
+1525093993416	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-30 08:13:13.902 plugin-container[5354:345286] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1525094015309	geckodriver	INFO	geckodriver 0.20.1
+1525094015314	geckodriver	INFO	Listening on 127.0.0.1:49606
+1525094016328	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.VvMTIDEbXauI"
+1525094016742	Marionette	INFO	Enabled via --marionette
+2018-04-30 08:13:37.564 plugin-container[5362:345660] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525094017914	Marionette	INFO	Listening on port 49617
+1525094017996	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-30 08:13:38.474 plugin-container[5363:345750] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1525664316538	geckodriver	INFO	geckodriver 0.20.1
+1525664316548	geckodriver	INFO	Listening on 127.0.0.1:49612
+1525664317550	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.oMu0TFyd8v5T"
+1525664318148	Marionette	INFO	Enabled via --marionette
+2018-05-06 22:38:38.973 plugin-container[2471:34609] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525664319380	Marionette	INFO	Listening on port 49623
+1525664319430	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-06 22:38:39.904 plugin-container[2472:34702] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1525664338469	geckodriver	INFO	geckodriver 0.20.1
+1525664338475	geckodriver	INFO	Listening on 127.0.0.1:49754
+1525664339484	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.ifC6uSfr8mhu"
+1525664339912	Marionette	INFO	Enabled via --marionette
+2018-05-06 22:39:00.722 plugin-container[2481:35051] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa133, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525664341082	Marionette	INFO	Listening on port 49765
+1525664341160	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-06 22:39:01.705 plugin-container[2482:35130] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-62344036-2, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1525664370543	geckodriver	INFO	geckodriver 0.20.1
+1525664370551	geckodriver	INFO	Listening on 127.0.0.1:49935
+1525664371560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_6/v7gt5ksn5m9g7h65rkfsvm3w0000gn/T/rust_mozprofile.cqmVTPF0NumY"
+1525664372160	Marionette	INFO	Enabled via --marionette
+2018-05-06 22:39:33.303 plugin-container[2488:35496] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525664373790	Marionette	INFO	Listening on port 49946
+1525664373892	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-06 22:39:34.346 plugin-container[2489:35576] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
